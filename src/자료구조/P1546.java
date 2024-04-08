@@ -17,7 +17,6 @@ public class P1546 {
                 max = A[i];
             sum = sum + A[i];
         }
-        // 각각 계산이 아닌 수식 변환을 통해 총합에 대해 한번만 계산해주면 로직이 간단해 집니다.
         System.out.println(sum * 100.0 / max / N);
 
     }
