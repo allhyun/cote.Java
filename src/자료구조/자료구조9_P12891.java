@@ -4,10 +4,9 @@ import java.io.*;
 import java.util.StringTokenizer;
 
 import static java.lang.System.in;
-import static java.lang.System.out;
 
 
-public class P12891_자료구조9 {
+public class 자료구조9_P12891 {
     //전역변수 설정해서 다른곳에서서도 사용할 수 있도록
     static int myArr[];
     static int checkArr[];
